@@ -1,0 +1,15 @@
+/Users/ksenia55/Projects/lbpomo3/lbpomo3/bin/Debug/net7.0/lbpomo3
+/Users/ksenia55/Projects/lbpomo3/lbpomo3/bin/Debug/net7.0/lbpomo3.deps.json
+/Users/ksenia55/Projects/lbpomo3/lbpomo3/bin/Debug/net7.0/lbpomo3.runtimeconfig.json
+/Users/ksenia55/Projects/lbpomo3/lbpomo3/bin/Debug/net7.0/lbpomo3.dll
+/Users/ksenia55/Projects/lbpomo3/lbpomo3/bin/Debug/net7.0/lbpomo3.pdb
+/Users/ksenia55/Projects/lbpomo3/lbpomo3/obj/Debug/net7.0/lbpomo3.csproj.AssemblyReference.cache
+/Users/ksenia55/Projects/lbpomo3/lbpomo3/obj/Debug/net7.0/lbpomo3.GeneratedMSBuildEditorConfig.editorconfig
+/Users/ksenia55/Projects/lbpomo3/lbpomo3/obj/Debug/net7.0/lbpomo3.AssemblyInfoInputs.cache
+/Users/ksenia55/Projects/lbpomo3/lbpomo3/obj/Debug/net7.0/lbpomo3.AssemblyInfo.cs
+/Users/ksenia55/Projects/lbpomo3/lbpomo3/obj/Debug/net7.0/lbpomo3.csproj.CoreCompileInputs.cache
+/Users/ksenia55/Projects/lbpomo3/lbpomo3/obj/Debug/net7.0/lbpomo3.dll
+/Users/ksenia55/Projects/lbpomo3/lbpomo3/obj/Debug/net7.0/refint/lbpomo3.dll
+/Users/ksenia55/Projects/lbpomo3/lbpomo3/obj/Debug/net7.0/lbpomo3.pdb
+/Users/ksenia55/Projects/lbpomo3/lbpomo3/obj/Debug/net7.0/lbpomo3.genruntimeconfig.cache
+/Users/ksenia55/Projects/lbpomo3/lbpomo3/obj/Debug/net7.0/ref/lbpomo3.dll
