@@ -1,0 +1,24 @@
+{
+  "version": 2,
+  "dgSpecHash": "UPcS/Dfu05/NTU5RytGLy1qF+X+juvHO3QutV7oJz1LYBSPakMdu/5yVsZB+GDKvyJ7sHG3icehp1rSbYS7oCA==",
+  "success": true,
+  "projectFilePath": "/Users/ksenia55/Projects/lbpomo/lbpomo/lbpomo.csproj",
+  "expectedPackageFiles": [
+    "/Users/ksenia55/.nuget/packages/atksharp/3.24.24.95/atksharp.3.24.24.95.nupkg.sha512",
+    "/Users/ksenia55/.nuget/packages/bouncycastle.cryptography/2.2.1/bouncycastle.cryptography.2.2.1.nupkg.sha512",
+    "/Users/ksenia55/.nuget/packages/cairosharp/3.24.24.95/cairosharp.3.24.24.95.nupkg.sha512",
+    "/Users/ksenia55/.nuget/packages/gdksharp/3.24.24.95/gdksharp.3.24.24.95.nupkg.sha512",
+    "/Users/ksenia55/.nuget/packages/giosharp/3.24.24.95/giosharp.3.24.24.95.nupkg.sha512",
+    "/Users/ksenia55/.nuget/packages/glibsharp/3.24.24.95/glibsharp.3.24.24.95.nupkg.sha512",
+    "/Users/ksenia55/.nuget/packages/gtksharp/3.24.24.95/gtksharp.3.24.24.95.nupkg.sha512",
+    "/Users/ksenia55/.nuget/packages/mime/3.5.2/mime.3.5.2.nupkg.sha512",
+    "/Users/ksenia55/.nuget/packages/mimekit/4.3.0/mimekit.4.3.0.nupkg.sha512",
+    "/Users/ksenia55/.nuget/packages/mimetypesmap/1.0.8/mimetypesmap.1.0.8.nupkg.sha512",
+    "/Users/ksenia55/.nuget/packages/pangosharp/3.24.24.95/pangosharp.3.24.24.95.nupkg.sha512",
+    "/Users/ksenia55/.nuget/packages/system.formats.asn1/7.0.0/system.formats.asn1.7.0.0.nupkg.sha512",
+    "/Users/ksenia55/.nuget/packages/system.runtime.compilerservices.unsafe/6.0.0/system.runtime.compilerservices.unsafe.6.0.0.nupkg.sha512",
+    "/Users/ksenia55/.nuget/packages/system.security.cryptography.pkcs/7.0.3/system.security.cryptography.pkcs.7.0.3.nupkg.sha512",
+    "/Users/ksenia55/.nuget/packages/system.text.encoding.codepages/7.0.0/system.text.encoding.codepages.7.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}
